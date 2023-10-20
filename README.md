@@ -9,7 +9,7 @@ Statistics are a set of number and non-number data arranged in a table or diagra
 - Example :
 <img width="599" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/9fdfc01d-2fab-4f0e-b742-420df8ef7e4f">
 
-### Opportunities 
+### Probability
 Probability is a value (quantity) to express how likely an event is to occur. The probability of an event is the ratio between the number of events (n(A)) and all possible events (n(S)).
 - Example :
 <img width="386" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/27d43700-8f96-4641-ad08-496b7ec459e9">
