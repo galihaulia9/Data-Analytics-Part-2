@@ -21,20 +21,21 @@ Data Visualization is the graphic representation of data. It converts a huge dat
 Matplotlib is the most popular python library for doing data visualization that is more interesting and easy to understand so matplotlib will feel more natural to learn. Matplotlib has many examples of charts that can be used to visualize data to make it more interesting. One of them, Line Chart, is used to display information using many points that are connected to each other and form a straight or curved line.
 - Example :
 
-![image](https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/1447d25e-be6b-46a0-9279-99e7afc84fb8)
+<img width="229" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/2730db38-bc2a-43c3-b28a-07950e68d868">
 
-![image](https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/4ef6f10a-7dcc-4dbc-89b0-44a480b8a060)
+<img width="373" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/476f93e9-b2dd-4031-bcdf-596e74177df7">
 
 ### Seaborn
 Seaborn is a library for creating graphs and statistics using Python. This library builds on the existing Matplotlib library. It is then integrated with the data structures in Pandas. Seaborn is much more functional and organized. It treats the entire dataset as a single entity.
 - Examples of some Seaborn Styles in Line Chart form :
 1. Whitegrid
    
-![image](https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/67d496f4-1fb7-4475-a4cf-e5dc7ed56bd4)
+<img width="369" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/f56c2962-5488-457c-a5b6-6b3ac168592e">
 
 2. Darkgrid
    
-![image](https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/c861fffe-c040-4c8b-a3e4-db3248a27d49)
+<img width="381" alt="image" src="https://github.com/galihaulia9/Data-Analytics-Part-2/assets/125258524/37c15dab-7cf0-40aa-a154-9dc98dc0dcdd">
+
 
 
 
